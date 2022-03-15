@@ -1,7 +1,7 @@
 {
   "name": "juan-mongodb",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Usage",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"
@@ -16,5 +16,17 @@
   "license": "ISC",
   "dependencies": {
     "mongodb": "^4.4.1"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wittefeng/juan-mongodb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wittefeng/juan-mongodb/issues"
+  },
+  "homepage": "https://github.com/wittefeng/juan-mongodb#readme"
 }

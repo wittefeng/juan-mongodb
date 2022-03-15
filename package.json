@@ -1,0 +1,20 @@
+{
+  "name": "juan-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "wiitefeng <wittefeng@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.4.1"
+  }
+}
